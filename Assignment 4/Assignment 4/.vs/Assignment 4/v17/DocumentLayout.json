@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdulrhman\\Desktop\\DEPI\\C#\\Assignments\\Assignment 4\\Assignment 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1928A788-96F7-4BAF-85B7-74638607005D}|Assignment 4\\Assignment 4.csproj|c:\\users\\abdulrhman\\desktop\\depi\\c#\\assignments\\assignment 4\\assignment 4\\assignment 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928A788-96F7-4BAF-85B7-74638607005D}|Assignment 4\\Assignment 4.csproj|solutionrelative:assignment 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Abdulrhman\\Desktop\\DEPI\\C#\\Assignments\\Assignment 4\\Assignment 4\\Assignment 4\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Abdulrhman\\Desktop\\DEPI\\C#\\Assignments\\Assignment 4\\Assignment 4\\Assignment 4\\Program.cs",
+              "RelativeToolTip": "Assignment 4\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA9wBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:08:35.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
